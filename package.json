@@ -1,0 +1,22 @@
+{
+  "name": "first-simple-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stpeyyee/first-simple-typescript.git"
+  },
+  "author": "Sathidporn Chancharoen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stpeyyee/first-simple-typescript/issues"
+  },
+  "homepage": "https://github.com/stpeyyee/first-simple-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

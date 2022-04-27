@@ -1,4 +1,5 @@
 # first-simple-typescript
+TypeScript Documentation https://www.typescriptlang.org/docs/
 
 ## How to setup typescript project
 ### Open your cmd to run these commands

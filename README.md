@@ -12,7 +12,7 @@ TypeScript Documentation https://www.typescriptlang.org/docs/
 3. npx tsc -- init
 
 ### Add these 2 lines in tsconfig.json file
-"include": ["src/**/*], <br/>
+"include": ["src/**/*"], <br/>
 "exclude": ["test"]
 
 ### Unhide these commands in tsconfig.json file

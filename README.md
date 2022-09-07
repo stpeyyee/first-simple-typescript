@@ -9,7 +9,7 @@ TypeScript Documentation https://www.typescriptlang.org/docs/
 ### Open your directory in editor to run these commands
 1. npm init
 2. npm install -D typescript
-3. npx tsc -- init
+3. npx tsc --init
 
 ### Add these 2 lines in tsconfig.json file
 "include": ["src/**/*"], <br/>
